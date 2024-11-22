@@ -4,11 +4,6 @@ Tema 4 PCOM - HTTP, Client REST
 
 Am facut implementarea in c++.
 
-    Pentru a implementa aceasta tema am pornit de la scheletul laboratorului 9. Am folosit codul
-din fisierele buffer.c, buffer.h, helpers.c, helper.h. Pentru a parsa raspunsurile de la server
-am folosit biblioteca nlohmann sugerata in enunt pentru C++, astfel parsarea a fost accesibila si 
-usor de facut.
-
 
 request: 
     Pentru request, am pornit de la codul din laborator si am facut modificarile astfel
